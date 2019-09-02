@@ -1,0 +1,22 @@
+C:\wamp64\www\blkchn\dev>node test.js
+blockchain {
+  chain:
+   [ { index: 1,
+       timestamp: 1567403182791,
+       transaction: [],
+       nonce: 2389,
+       hash: '3HFB238F7D613',
+       previousblockhash: '1H3BF8DB3S' },
+     { index: 2,
+       timestamp: 1567403182791,
+       transaction: [],
+       nonce: 1239,
+       hash: '3HFB238F7DFB238F7F8DB3S613',
+       previousblockhash: '1H3B3HFB238F7F8DB3S' },
+     { index: 3,
+       timestamp: 1567403182791,
+       transaction: [],
+       nonce: 3387,
+       hash: '3HFB238F78F7DFB3SD613',
+       previousblockhash: '1H3BF8DBFB238F7DFB3S' } ],
+  newTransaction: [] }
